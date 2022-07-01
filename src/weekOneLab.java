@@ -49,7 +49,7 @@ public class weekOneLab {
 		//print a line to the console that introduces the customer and says they live at the address variable
 		
 		System.out.println("This is out new customer " + fullName + " and they live at the address " + streetAddress);
-		
+		System.out.println("Test to see if this updates");
 		
 	}
 
